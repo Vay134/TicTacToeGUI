@@ -1,4 +1,4 @@
 # TicTacToeGUI
-Tic Tac Toe with GUI, made using Raylib
+Kode ini memerlukan Raylib untuk bisa dijalankan
 
-Requires Raylib to run
+Ada versi executable di bagian releases yang dapat didownload dan dijalankan tanpa perlu setup Raylib/C++. Apabila executable diblock oleh antivirus/windows defender, tekan more info > run anyway. 
